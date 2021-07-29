@@ -1,0 +1,12 @@
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ConsoleApp1\ConsoleApp1\obj\Debug\FinalChallenge.csproj.AssemblyReference.cache
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ConsoleApp1\ConsoleApp1\obj\Debug\FinalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ConsoleApp1\ConsoleApp1\obj\Debug\FinalChallenge.csproj.CopyComplete
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
